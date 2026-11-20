@@ -208,59 +208,65 @@ plt.axis("off")
 ## Output:
 **Original Image**
 
-<img width="236" height="335" alt="image_5" src="https://github.com/user-attachments/assets/7c3e1e17-9d41-436d-90f1-132524957c02" />
+<img width="407" height="515" alt="image" src="https://github.com/user-attachments/assets/be19b37c-b5e8-47d7-a791-cbb0ba412967" />
 
 **Image with Line**
 
-<img width="231" height="337" alt="image" src="https://github.com/user-attachments/assets/9efc7b4e-4992-441c-92af-23dab2350777" />
+<img width="372" height="507" alt="image" src="https://github.com/user-attachments/assets/da5d69c4-6d33-483a-be2b-6778aeedd7b0" />
 
 **Image with Circle**
 
-<img width="230" height="336" alt="image" src="https://github.com/user-attachments/assets/cbdbb3f2-3e74-4665-84ef-00a6fcfd0354" />
+<img width="367" height="506" alt="image" src="https://github.com/user-attachments/assets/cd13badb-38a1-4c62-ae2f-e609c74d3289" />
 
 **Image with Rectangle**
 
-<img width="240" height="343" alt="image" src="https://github.com/user-attachments/assets/f517c677-20ec-4ef2-a99e-33c22c782255" />
+<img width="370" height="507" alt="image" src="https://github.com/user-attachments/assets/796bb042-311d-48fa-9bdb-cd8ac08dccec" />
 
 **Image with Text**
 
-<img width="235" height="342" alt="image" src="https://github.com/user-attachments/assets/e00541ba-ec10-47ca-bd63-fddcd4dd1c45" />
+![Uploading image.png…]()
+
 
 **Original RGB Image**
 
-<img width="241" height="337" alt="image" src="https://github.com/user-attachments/assets/a5f5c181-5a1d-4d11-83c3-86863856cc76" />
+<img width="357" height="501" alt="image" src="https://github.com/user-attachments/assets/a9d0a2d1-5db6-48fd-9dc5-b850309c7bd4" />
 
 **HSV Image**
 
-<img width="227" height="336" alt="image" src="https://github.com/user-attachments/assets/9c26f277-c5e8-4960-8e50-8e138a7873ff" />
+<img width="370" height="502" alt="image" src="https://github.com/user-attachments/assets/d913b11a-6266-4137-998c-7f6d20da9936" />
 
 **Grayscale Image**
 
-<img width="242" height="338" alt="image" src="https://github.com/user-attachments/assets/fe077dcc-63e0-4ff8-9756-b37dfa9517ce" />
+<img width="352" height="502" alt="image" src="https://github.com/user-attachments/assets/0d1cf148-3592-432c-874b-775282f45cb8" />
 
 **YCrCb Image**
 
-<img width="258" height="338" alt="image" src="https://github.com/user-attachments/assets/1e296217-040c-43a0-99c5-382ba565a80c" />
+<img width="363" height="500" alt="image" src="https://github.com/user-attachments/assets/995f231c-06e1-434f-bf62-93f506482abd" />
 
 **HSV to RGB Image**
 
-<img width="392" height="337" alt="image" src="https://github.com/user-attachments/assets/ca24fa98-1441-4da3-954e-1a5198eac73b" />
+<img width="372" height="505" alt="image" src="https://github.com/user-attachments/assets/ba0ef5e4-77ec-4f43-be2e-b5c9a1761856" />
 
 **Image with 300x300 White Block**
 
-<img width="267" height="345" alt="image" src="https://github.com/user-attachments/assets/569cef56-4c4b-4304-a8f6-81af3fb4feca" />
+<img width="618" height="515" alt="image" src="https://github.com/user-attachments/assets/b26b1d10-e9db-4cec-ac15-9620ed7b2e16" />
 
 **Resized Image (Half Size)**
 
-<img width="278" height="350" alt="image" src="https://github.com/user-attachments/assets/992d963d-89d6-4193-8d86-35c19d7c7ab0" />
+<img width="446" height="515" alt="image" src="https://github.com/user-attachments/assets/fff0ed4e-f4f2-4a5e-a6d1-c46ef2f2a64b" />
 
 **Cropped Region of Interest (ROI)**
 
-<img width="247" height="311" alt="image" src="https://github.com/user-attachments/assets/cd54c5c3-c90e-4e78-8b26-497a1c35e3e6" />
+<img width="365" height="497" alt="image" src="https://github.com/user-attachments/assets/7613bbcf-9187-4c4a-a9c4-db72bcd53bfa" />
 
 **Flipped Horizontally**
 
+<img width="361" height="476" alt="image" src="https://github.com/user-attachments/assets/b1204e21-3f02-42e5-b81a-a1900d782048" />
+
 **Flipped Vertically**
+
+<img width="357" height="490" alt="image" src="https://github.com/user-attachments/assets/32f485f8-a7e1-4ac0-95f8-de0c742b82b6" />
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
