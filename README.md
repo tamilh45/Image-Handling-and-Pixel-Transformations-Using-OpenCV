@@ -216,56 +216,56 @@ plt.axis("off")
 
 **Image with Circle**
 
-<img width="367" height="506" alt="image" src="https://github.com/user-attachments/assets/cd13badb-38a1-4c62-ae2f-e609c74d3289" />
+<img width="357" height="511" alt="image" src="https://github.com/user-attachments/assets/5da2bb5c-2f34-4338-ba09-045e1a1adda2" />
 
 **Image with Rectangle**
 
-<img width="370" height="507" alt="image" src="https://github.com/user-attachments/assets/796bb042-311d-48fa-9bdb-cd8ac08dccec" />
+<img width="362" height="495" alt="image" src="https://github.com/user-attachments/assets/2edfce85-1b15-4a20-8e97-6bd4eddb3dd1" />
 
 **Image with Text**
 
-![Uploading image.png…]()
+<img width="353" height="507" alt="image" src="https://github.com/user-attachments/assets/a96714e7-d830-48d2-9d7d-d9c80d390c6b" />
 
 
 **Original RGB Image**
 
-<img width="357" height="501" alt="image" src="https://github.com/user-attachments/assets/a9d0a2d1-5db6-48fd-9dc5-b850309c7bd4" />
+<img width="346" height="498" alt="image" src="https://github.com/user-attachments/assets/3a0468e9-8c6c-4ba1-9686-dcdd23014a67" />
 
 **HSV Image**
 
-<img width="370" height="502" alt="image" src="https://github.com/user-attachments/assets/d913b11a-6266-4137-998c-7f6d20da9936" />
+<img width="352" height="497" alt="image" src="https://github.com/user-attachments/assets/466eee32-003b-41c8-8d26-dad7a1e0b1fe" />
 
 **Grayscale Image**
 
-<img width="352" height="502" alt="image" src="https://github.com/user-attachments/assets/0d1cf148-3592-432c-874b-775282f45cb8" />
+<img width="357" height="495" alt="image" src="https://github.com/user-attachments/assets/3e9c93f3-6406-4cbe-87eb-2d565c72782c" />
 
 **YCrCb Image**
 
-<img width="363" height="500" alt="image" src="https://github.com/user-attachments/assets/995f231c-06e1-434f-bf62-93f506482abd" />
+<img width="352" height="502" alt="image" src="https://github.com/user-attachments/assets/d01070df-ad84-4783-b475-9006fc7a965c" />
 
 **HSV to RGB Image**
 
-<img width="372" height="505" alt="image" src="https://github.com/user-attachments/assets/ba0ef5e4-77ec-4f43-be2e-b5c9a1761856" />
+<img width="355" height="497" alt="image" src="https://github.com/user-attachments/assets/5bf24c6f-2025-419f-95b7-2a286d223592" />
 
 **Image with 300x300 White Block**
 
-<img width="618" height="515" alt="image" src="https://github.com/user-attachments/assets/b26b1d10-e9db-4cec-ac15-9620ed7b2e16" />
+<img width="372" height="502" alt="image" src="https://github.com/user-attachments/assets/6b9d161d-82f0-4dca-b57d-84344284d9e6" />
 
 **Resized Image (Half Size)**
 
-<img width="446" height="515" alt="image" src="https://github.com/user-attachments/assets/fff0ed4e-f4f2-4a5e-a6d1-c46ef2f2a64b" />
+<img width="603" height="506" alt="image" src="https://github.com/user-attachments/assets/e5929e9e-8bda-4056-a475-fffc73830561" />
 
 **Cropped Region of Interest (ROI)**
 
-<img width="365" height="497" alt="image" src="https://github.com/user-attachments/assets/7613bbcf-9187-4c4a-a9c4-db72bcd53bfa" />
+<img width="430" height="503" alt="image" src="https://github.com/user-attachments/assets/f30dd3e6-6118-4c81-a3ee-c86aa5f0a8e0" />
 
 **Flipped Horizontally**
 
-<img width="361" height="476" alt="image" src="https://github.com/user-attachments/assets/b1204e21-3f02-42e5-b81a-a1900d782048" />
+<img width="357" height="495" alt="image" src="https://github.com/user-attachments/assets/a97f4e8f-ea48-4ab3-acba-5e4e4fbcfe6d" />
 
 **Flipped Vertically**
 
-<img width="357" height="490" alt="image" src="https://github.com/user-attachments/assets/32f485f8-a7e1-4ac0-95f8-de0c742b82b6" />
+<img width="361" height="471" alt="image" src="https://github.com/user-attachments/assets/557a91aa-b595-4a32-95a6-dfdde0887724" />
 
 
 ## Result:
