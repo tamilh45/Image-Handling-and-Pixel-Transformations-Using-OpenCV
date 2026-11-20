@@ -36,7 +36,6 @@ Split the image (boy.jpg) into B, G, R components and display the channels
 
   ### Ex. No. 01
 
-#### 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread() as a grayscale image.
 ```python
 import cv2
 import matplotlib.pyplot as plt
@@ -207,20 +206,61 @@ plt.axis("off")
 ```
 
 ## Output:
+**Original Image**
+
 <img width="236" height="335" alt="image_5" src="https://github.com/user-attachments/assets/7c3e1e17-9d41-436d-90f1-132524957c02" />
+
+**Image with Line**
+
 <img width="231" height="337" alt="image" src="https://github.com/user-attachments/assets/9efc7b4e-4992-441c-92af-23dab2350777" />
+
+**Image with Circle**
+
 <img width="230" height="336" alt="image" src="https://github.com/user-attachments/assets/cbdbb3f2-3e74-4665-84ef-00a6fcfd0354" />
+
+**Image with Rectangle**
+
 <img width="240" height="343" alt="image" src="https://github.com/user-attachments/assets/f517c677-20ec-4ef2-a99e-33c22c782255" />
+
+**Image with Text**
+
 <img width="235" height="342" alt="image" src="https://github.com/user-attachments/assets/e00541ba-ec10-47ca-bd63-fddcd4dd1c45" />
+
+**Original RGB Image**
+
 <img width="241" height="337" alt="image" src="https://github.com/user-attachments/assets/a5f5c181-5a1d-4d11-83c3-86863856cc76" />
+
+**HSV Image**
+
 <img width="227" height="336" alt="image" src="https://github.com/user-attachments/assets/9c26f277-c5e8-4960-8e50-8e138a7873ff" />
+
+**Grayscale Image**
+
 <img width="242" height="338" alt="image" src="https://github.com/user-attachments/assets/fe077dcc-63e0-4ff8-9756-b37dfa9517ce" />
+
+**YCrCb Image**
+
 <img width="258" height="338" alt="image" src="https://github.com/user-attachments/assets/1e296217-040c-43a0-99c5-382ba565a80c" />
+
+**HSV to RGB Image**
+
 <img width="392" height="337" alt="image" src="https://github.com/user-attachments/assets/ca24fa98-1441-4da3-954e-1a5198eac73b" />
+
+**Image with 300x300 White Block**
+
 <img width="267" height="345" alt="image" src="https://github.com/user-attachments/assets/569cef56-4c4b-4304-a8f6-81af3fb4feca" />
+
+**Resized Image (Half Size)**
+
 <img width="278" height="350" alt="image" src="https://github.com/user-attachments/assets/992d963d-89d6-4193-8d86-35c19d7c7ab0" />
+
+**Cropped Region of Interest (ROI)**
+
 <img width="247" height="311" alt="image" src="https://github.com/user-attachments/assets/cd54c5c3-c90e-4e78-8b26-497a1c35e3e6" />
 
+**Flipped Horizontally**
+
+**Flipped Vertically**
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
